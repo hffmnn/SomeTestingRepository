@@ -6,6 +6,10 @@
 //  Copyright © 2016 Christian Hoffmann. All rights reserved.
 //
 
+/*
+ Some comment in AppDelegate.h
+ */
+
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
