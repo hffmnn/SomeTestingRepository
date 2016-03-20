@@ -17,5 +17,10 @@
 @property (strong, nonatomic) UIWindow *window;
 
 
-@end
+@property (nonatomic, assign) NSInteger indexInt;
 
+// Some more comments 1
+// Some more comments 2
+// Some more comments 3
+
+@end
